@@ -1,2 +1,13 @@
-# deterministic-optimization
-A MCLP optimization model of resource allocation (under development)
+## Location Allocation using MIP
+
+## Situation
+
+## Task
+
+## Action
+
+## Result
+
+
+
+
