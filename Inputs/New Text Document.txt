@@ -1,0 +1,19 @@
+Location, Incident Reason, Name, Type, Year, Spill Size (Tonnes)
+Nova Scotia, Grounding, SS Arrow, Tanker, 1970, 10000
+Quebec, Bunkering Spill, Golden Robin, Tanker, 1974, 400
+Nova Scotia, Allision, Kurdistan, Tanker, 1979, 8000
+Nova Scotia, Grounding, Odyssey, Tanker, 1988, 132000
+Washington US and British Columbia, Collision, Nestucca, Fuel Barge, 1988, 800
+Ontario, Bunkering Spill, Nancy Orr Gaucher, Tanker, 1989, 102.41
+Quebec, Grounding, Rio Orinoco, Tanker, 1990, 81.93
+Quebec, Leak, MV Saraband, Tanker, 1998, 8.12
+Newfoundland, Mechanical Failure, Terra Nova, Floating Production Storage and Offloading, 2004, 60.03
+British Columbia, Grounding, Queen of the North, RORO Ferry, 2006, 81.2
+British Columbia, Leak, MV Marathassa, Bulk Carrier, 2015, 0.95
+British Columbia, Grounding, Nathan E. Stewart, Tug Boat, 2016, 38.84
+Alberta, Leaking a ball valve, Enbridge Pipelines Inc, Pipeline, 2017, 1.05
+Britis Columbia, Leaking spool piece, Trans Mountain Pipeline, Pipeline, 2018, 1.69
+Newfoundland and Labrador, Leak in a flowline, Sea Rose FPSO production ship spill, Vessel, 2018, 219
+Alberta, Rupture, Bonterra Energy Corp, Pipeline, 2019, 14.12
+Alberta, Leakage, Trans Mountain Pipeline, Pipeline, 2020, 67.09
+British Columbia, Leak, Trans Mountain Pipeline, Pipeline, 2020, 184.87
