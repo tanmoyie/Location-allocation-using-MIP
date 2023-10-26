@@ -1,7 +1,7 @@
 ## Location Allocation using MIP
 
 ## Situation
-Develop a Mixed Integer Programming optimization model for an oil spill problem to help strategic decision-making.
+Develop a Mixed Integer Programming (MIP) optimization model for an oil spill problem to help strategic decision-making.
 
 
 ## Task
