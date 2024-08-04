@@ -17,8 +17,7 @@
 2.	requirement.txt file contains all Python packages needed for this project 
 3.	The main optimization engine is written in model_PAMIP.py file
 4.	Source code of Figure 1, 2 & 3 can be found in data_visualization.py file
-5.	data_generation.py file is currently empty. This file is for next version of the model! 
-6.	Some custom functions are written in custom_functions.py to avoid duplicates in the main.py file
+5.	Some custom functions are written in custom_functions.py to avoid duplicates in the main.py file
 
 # Reference
 Tanmoy Das, Floris Goerlandt, Ronald Pelot (2023). A Mixed Integer Programming Approach to Improve Oil Spill Response Resource Allocation in the Canadian Arctic. Multimodal Transportation, 3(1). https://doi.org/10.1016/j.multra.2023.100110
