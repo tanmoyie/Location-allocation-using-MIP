@@ -2,8 +2,11 @@
 
 # Summary
 **Situation**: Develop a Mixed Integer Programming (MIP) optimization model for an oil spill problem to help strategic decision-making.
+
 **Task**: How many and where to build oil spill response stations in Canadian Arctic? Will additional response stations improve coverage?
+
 **Action**: Build optimization model to find optimal facility location and allocation. This Optimization Model Maximize spill coverage while ensuring minimum response time, and sensitive areas are covered.
+
 **Result**: 95% spill coverage; Build 5 response stations
 
 ![P-III abstract](https://github.com/tanmoyie/Location-allocation-using-MIP/assets/19787712/2e6b3437-881d-437c-90a7-df399719f715)
