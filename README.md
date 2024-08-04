@@ -22,6 +22,5 @@
 # Reference
 Tanmoy Das, Floris Goerlandt, Ronald Pelot (2023). A Mixed Integer Programming Approach to Improve Oil Spill Response Resource Allocation in the Canadian Arctic. Multimodal Transportation, 3(1). https://doi.org/10.1016/j.multra.2023.100110
 
-Fig. An optimized facility location and resource allocation
 ![Fig7b m2 200spills 5NumberSt_max 10Distance_max 92%coverage](https://github.com/user-attachments/assets/8525ff14-b56b-4bc4-832b-6a9b69655781)
-
+Fig. An optimized facility location and resource allocation
